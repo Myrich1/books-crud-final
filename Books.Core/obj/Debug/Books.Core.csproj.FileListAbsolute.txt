@@ -1,0 +1,11 @@
+C:\Users\gosum\source\repos\Books\Books.Core\bin\Debug\Books.Core.dll
+C:\Users\gosum\source\repos\Books\Books.Core\bin\Debug\Books.Core.pdb
+C:\Users\gosum\source\repos\Books\Books.Core\obj\Debug\Books.Core.csprojAssemblyReference.cache
+C:\Users\gosum\source\repos\Books\Books.Core\obj\Debug\Books.Core.csproj.CoreCompileInputs.cache
+C:\Users\gosum\source\repos\Books\Books.Core\obj\Debug\Books.Core.dll
+C:\Users\gosum\source\repos\Books\Books.Core\obj\Debug\Books.Core.pdb
+C:\Users\gosum\source\repos\local backup\Books\Books.Core\bin\Debug\Books.Core.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.Core\bin\Debug\Books.Core.pdb
+C:\Users\gosum\source\repos\local backup\Books\Books.Core\obj\Debug\Books.Core.csproj.CoreCompileInputs.cache
+C:\Users\gosum\source\repos\local backup\Books\Books.Core\obj\Debug\Books.Core.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.Core\obj\Debug\Books.Core.pdb
